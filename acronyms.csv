@@ -25,6 +25,7 @@
 "FSM","Finite State Machine"
 "GPIO","General Purpose Input/Output"
 "GPU","Graphics processing unit"
+"GSR","Global Set/Reset"
 "HAL","Hardware Abstraction Layer"
 "HBM","High-Bandwidth Memory"
 "HCA","Hybrid Cellular Automata"
@@ -62,4 +63,5 @@
 "SVM","Support Vector Machine"
 "SV","Sample Value"
 "TMR","Triple Modular Redundancy"
+"VHDL","VHSIC Hardware Description Language"
 "XDMA","Xilinx Direct Memory Access"
