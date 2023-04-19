@@ -54,6 +54,7 @@
 "PS","Processing System"
 "QSVM","Quantum Support Vector Machine"
 "RAM","Random Access Memory"
+"RDPR","Remote Dynamic Partial Reconfiguration"
 "RNN","Recurrent Neural Networks"
 "SAE","Stacked AutoEncoder"
 "SEU","Single-event Upset"
@@ -64,4 +65,5 @@
 "SV","Sample Value"
 "TMR","Triple Modular Redundancy"
 "VHDL","VHSIC Hardware Description Language"
+"WPUF","Washable Physical Unclonable Function"
 "XDMA","Xilinx Direct Memory Access"
