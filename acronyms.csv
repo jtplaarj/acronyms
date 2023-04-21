@@ -47,6 +47,7 @@
 "NB","Naive Bayes"
 "NN","Neural Networks"
 "PCIe","PCI Express"
+"PLB","Programmable Logic Block"
 "PL","Programmable Logic"
 "PMU","Phasor Measurement Unit"
 "PRNG","Pseudo Random Number Generator"
@@ -67,3 +68,5 @@
 "VHDL","VHSIC Hardware Description Language"
 "WPUF","Washable Physical Unclonable Function"
 "XDMA","Xilinx Direct Memory Access"
+"VIO","Virtual Input Output"
+
